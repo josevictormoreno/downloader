@@ -1,6 +1,6 @@
 # Downloader
-Youtube Videos Downloader
-You can choose mp3 or mp4 downloads
+Youtube Videos **Downloader**
+You can **choose** mp3 or mp4 downloads!
 
 ## Description
 This project was created with python, using pytube and PySimpleGUI.
@@ -9,7 +9,7 @@ This project was created with python, using pytube and PySimpleGUI.
 The downloaded videos will appear on the downloads folder
 
 ## To run
-If you don't have the pytube and PysimpleGUI libraries, run the next commmands
+If you don't have the pytube and PysimpleGUI libraries, run the next commands
 
 #### pytube
 ```
